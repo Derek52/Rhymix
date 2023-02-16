@@ -1,0 +1,12 @@
+/home/beerus/Dev/web/actix/rhymingDictionary/target/debug/deps/libthiserror_impl-d9f2a286ff09bc54.so: /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/lib.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/ast.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/attr.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/expand.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/fmt.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/generics.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/prop.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/valid.rs
+
+/home/beerus/Dev/web/actix/rhymingDictionary/target/debug/deps/thiserror_impl-d9f2a286ff09bc54.d: /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/lib.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/ast.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/attr.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/expand.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/fmt.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/generics.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/prop.rs /home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/valid.rs
+
+/home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/lib.rs:
+/home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/ast.rs:
+/home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/attr.rs:
+/home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/expand.rs:
+/home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/fmt.rs:
+/home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/generics.rs:
+/home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/prop.rs:
+/home/beerus/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.38/src/valid.rs:
